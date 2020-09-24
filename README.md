@@ -18,7 +18,10 @@ This is because I want to clean them up and make them perfect before I set them 
 
 <details>
 <summary>Click to learn more about me!</summary>
-
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JokingChicken&show_icons=true" alt="JokingChicken" /></p>
+  
+    
 ## 🔭 I’m currently working on
 
 I work on many projects! It varies wildly depending on what I'm feeling. right now I am working on my website: [Axoid.net !!](https://axoid.net)
@@ -33,5 +36,4 @@ Every time I learn something new I always find out there's so much more I don't 
 I have chickens that are over 12 years old.  
 And even though that is old for chickens, they are still teeming with life!!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JokingChicken&show_icons=true" alt="JokingChicken" /></p>
 </details>
