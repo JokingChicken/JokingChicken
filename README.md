@@ -6,10 +6,11 @@ I am very intrested in programming in general: from Minecraft (where I started a
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JokingChicken" alt="DanJ" /> </p>
 
 <details>
-<summary>Click to view my projects!</summary>
+<summary>📁 Click to view my projects!</summary>
 <br>
 
-Nothing here yet?
+## 🛠️ projects:  
+ - Nothing here yet?
 
 Currently I have my projects on private.    
 This is because I want to clean them up and make them perfect before I set them to Public.👌
@@ -17,7 +18,7 @@ This is because I want to clean them up and make them perfect before I set them 
 </details>
 
 <details>
-<summary>Click to learn more about me!</summary>
+<summary>🤙 Click to learn more about me!</summary>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JokingChicken&show_icons=true" alt="JokingChicken" /></p>
   
