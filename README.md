@@ -16,8 +16,8 @@ from games such as Minecraft (where I started and still work on today) to websit
 ## 🛠️ projects:  
  - Nothing here yet?
 
-Currently I have my projects on private.    
-This is because I want to clean them up and make them perfect before I set them to Public.👌
+`Currently I have my projects on private.    
+This is because I want to clean them up and make them perfect before I set them to Public.👌`
 
 </details>
 
