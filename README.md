@@ -18,7 +18,7 @@ This is because I want to clean them up and make them perfect before I set them 
 
 <details>
 <summary>Click to learn more about me!</summary>
-<br>
+
 ## 🔭 I’m currently working on
 
 I work on many projects! It varies wildly depending on what I'm feeling. right now I am working on my website: [Axoid.net !!](https://axoid.net)
