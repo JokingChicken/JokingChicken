@@ -1,19 +1,7 @@
 ### Hi there 👋
 
-<!--
-**JokingChicken/JokingChicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey! Thanks for checking me out.   
+I am very intrested in programming in general: from Minecraft (where I started and still work on today) to websites and discord bots!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JokingChicken" alt="DanJ" /> </p>
 
@@ -31,9 +19,6 @@ This is because I want to clean them up and make them perfect before I set them 
 <details>
 <summary>Click to learn more about me!</summary>
 <br>
-Hey! Thanks for checking me out.   
-I am very intrested in programming in general: from Minecraft (where I started and still work on today) to websites and discord bots!
-
 ## 🔭 I’m currently working on
 
 I work on many projects! It varies wildly depending on what I'm feeling. right now I am working on my website: [Axoid.net !!](https://axoid.net)
@@ -47,4 +32,6 @@ Every time I learn something new I always find out there's so much more I don't 
 
 I have chickens that are over 12 years old.  
 And even though that is old for chickens, they are still teeming with life!!
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JokingChicken&show_icons=true" alt="JokingChicken" /></p>
 </details>
