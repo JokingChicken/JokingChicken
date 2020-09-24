@@ -1,10 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/JokingChicken/JokingChicken/master/wave_hand.gif" width="30px">
 
 Hey! Thanks for checking me out.   
-I am very intrested in programming in general: from Minecraft (where I started and still work on today) to websites and discord bots!
+
+I am very intrested in programming in general:   
+from games such as Minecraft (where I started and still work on today) to websites and discord bots!
   
   > Always working, just not on the things I should 🐔
-
+  
+  
+  
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JokingChicken" alt="DanJ" /> </p>
 
 <details>
