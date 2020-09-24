@@ -8,7 +8,7 @@ from games such as Minecraft (where I started and still work on today) to websit
   > Always working, just not on the things I should 🐔
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JokingChicken" alt="DanJ" /> </p>
-<br>
+<br><br>
 <details>
 <summary>📁 Click to view my projects!</summary>
 <br>
