@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Nothing here yet?
 
-Currently I have my projects on private.\    
+Currently I have my projects on private.    
 This is because I want to clean them up and make them perfect before I set them to Public.👌
 
 </details>
@@ -31,7 +31,7 @@ This is because I want to clean them up and make them perfect before I set them 
 <details>
 <summary>Click to learn more about me!</summary>
 <br>
-Hey! Thanks for checking me out.\   
+Hey! Thanks for checking me out.   
 I am very intrested in programming in general: from Minecraft (where I started and still work on today) to websites and discord bots!
 
 ## 🔭 I’m currently working on
@@ -40,11 +40,11 @@ I work on many projects! It varies wildly depending on what I'm feeling. right n
 
 ## 🌱 I’m currently learning
 
-I'm learning C++. but also still working on JavaScript and Java.\  
+I'm learning C++. but also still working on JavaScript and Java.  
 Every time I learn something new I always find out there's so much more I don't know. I do plan on learning more languages!
 
 ## ⚡ Fun fact:
 
-I have chickens that are over 12 years old.\  
-And even though that is old for chickens, they are still teeming with life!!\
+I have chickens that are over 12 years old.  
+And even though that is old for chickens, they are still teeming with life!!
 </details>
