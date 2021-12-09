@@ -5,7 +5,7 @@ Hey! Thanks for checking me out.
 I am very intrested in programming in general:   
 from games such as Minecraft (where I started and still work on today) to websites and discord bots!
   
-  > Always working, just not on the things I should 🐔
+  > Always working, just not on the things I should
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JokingChicken" alt="DanJ" /> </p>
 <br><br>
@@ -13,11 +13,10 @@ from games such as Minecraft (where I started and still work on today) to websit
 <summary>📁 Click to view my projects!</summary>
 <br>
 
-## 🛠️ projects:  
- - Nothing here yet?
-
-`Currently I have my projects on private.    
-This is because I want to clean them up and make them perfect before I set them to Public.👌`
+## 🛠️ projects:
+ - AudioSwitcher_v1: program written in c# that can switch audio devices with a key shortcut: [see here](https://github.com/JokingChicken/AudioSwitcher_v1)
+ - Nothing else here? `Currently I have my other projects on private.    
+    This is because I want to clean them up and make them perfect before I set them to Public.👌`
 
 </details>
 
@@ -29,16 +28,16 @@ This is because I want to clean them up and make them perfect before I set them 
     
 ## 🔭 I’m currently working on
 
-I work on many projects! It varies wildly depending on what I'm feeling. right now I am working on my website: [Axoid.net !!](https://axoid.net)
+I work on many projects! It varies wildly depending on what I'm feeling. right now I am working on my website: [Axoid.net !](https://axoid.net)
 
 ## 🌱 I’m currently learning
 
-I'm learning C++. but also still working on JavaScript and Java.  
-Every time I learn something new I always find out there's so much more I don't know. I do plan on learning more languages!
+I'm learning C++. but also still learning new things on JavaScript, typecript, CSharp and Java.  
+Every time I learn something new I always find out there's so much more I don't know. I do plan on learning more languages! (like python and C)
 
 ## ⚡ Fun fact:
 
-I have chickens that are over 12 years old.  
-And even though that is old for chickens, they are still teeming with life!!
+I have a chicken that is over 13 years old.  
+And even though that is old for chickens, she is still teeming with life!!
 
 </details>
