@@ -15,6 +15,7 @@ from games such as Minecraft (where I started and still work on today) to websit
 
 ## 🛠️ projects:
  - AudioSwitcher_v1: program written in c# that can switch audio devices with a key shortcut: [see here](https://github.com/JokingChicken/AudioSwitcher_v1)
+ - Axoid: Company developing cool ways to run the interweb! (nothing public as of yet)
  - Nothing else here? `Currently I have my other projects on private.    
     This is because I want to clean them up and make them perfect before I set them to Public.👌`
 
